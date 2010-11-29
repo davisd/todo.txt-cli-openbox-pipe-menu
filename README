@@ -1,0 +1,9 @@
+todo.txt-cli-openbox-pipe-menu
+===============================
+
+This is a recursive bash script that generates an xml openbox pipe menu from
+the output of the todo.txt-cli script located at http://todotxt.com
+
+For more information, see:
+http://www.davisd.com/blog/2010/11/28/openbox-pipe-menus-todo-task-list/
+
