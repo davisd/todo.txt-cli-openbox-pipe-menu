@@ -5,7 +5,7 @@
 #: Last Edit   : Sun Nov 28 22:00:00 CDT 2010
 #: Author      : "David Davis" http://www.davisd.com
 #: Version     : 1.00
-#: Description : Openbox toto.txt-cli pipe menu
+#: Description : Openbox todo.txt-cli pipe menu
 #: Options     : Name of new script file [ filter terms ]
 
 
